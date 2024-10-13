@@ -1,0 +1,48 @@
+{
+  "bedrock_roof_position": -10,
+  "bedrock_floor_position": -10,
+  "sea_level": 0,
+  "disable_mob_generation": false,
+  "structures": {
+	"structures": {
+		"minecraft:village": {
+        "spacing": 32,
+        "separation": 8,
+        "salt": 34222645
+      }
+	}
+  },
+  "noise": {
+    "density_factor": 0.0,
+    "density_offset": 0.0,
+    "simplex_surface_noise": true,
+    "bottom_slide": {
+      "target": -30,
+      "size": 7,
+      "offset": 1
+    },
+    "size_horizontal": 2,
+    "size_vertical": 2,
+    "height": 208,
+    "sampling": {
+      "xz_scale": 3.0,
+      "y_scale": 3.0,
+      "xz_factor": 60.0,
+      "y_factor": 180.0
+    },
+    "top_slide": {
+      "target": -3200,
+      "size": 32,
+      "offset": -28
+    }
+  },
+  "default_block": {
+    "Name": "minecraft:smooth_quartz"
+  },
+  "default_fluid": {
+    "Properties": {
+      "level": "0"
+    },
+    "Name": "minecraft:water"
+  }
+}

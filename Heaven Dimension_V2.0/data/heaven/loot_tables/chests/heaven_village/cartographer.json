@@ -1,0 +1,108 @@
+{
+  "pools": [
+    {
+      "rolls": {
+        "min": 2,
+        "max": 15
+      },
+      "bonus_rolls": {
+        "min": 0,
+        "max": 6.4
+      },
+      "entries": [
+        {
+          "type": "item",
+          "name": "minecraft:paper",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 21
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:glass_pane",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 19
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:emerald",
+          "weight": 2,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 20
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:compass",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "minecraft:clock",
+          "weight": 1
+        },
+        {
+          "type": "item",
+          "name": "minecraft:item_frame",
+          "weight": 1,
+          "functions": [
+            {
+              "function": "set_count",
+              "count": {
+                "min": 1,
+                "max": 7
+              }
+            }
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:map",
+          "weight": 2
+        },
+        {
+          "type": "item",
+          "name": "minecraft:white_banner",
+          "weight": 1,
+          "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:black_banner",
+          "weight": 1,
+          "functions": [
+          ]
+        },
+        {
+          "type": "item",
+          "name": "minecraft:air",
+          "weight": 3,
+          "functions": [
+          ]
+        }
+      ]
+    }
+  ]
+}

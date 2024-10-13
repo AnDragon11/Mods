@@ -1,0 +1,29 @@
+{
+    "display": {
+        "title": {
+            "text": "Angels!",
+            "color": "aqua"
+        },
+        "description": {
+            "text": "Find a village in Heaven Dimension"
+        },
+        "icon": {
+            "item": "minecraft:bell"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false
+    },
+    "criteria": {
+        "c1": {
+            "trigger": "minecraft:location",
+            "conditions": {
+                "biome": "heaven:angelic_plains",
+                "dimension": "heaven:sky",
+                "feature": "village"
+            }
+        }
+    },
+    "parent": "heaven:heaven/root"
+}

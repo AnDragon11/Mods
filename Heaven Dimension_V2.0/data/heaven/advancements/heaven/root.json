@@ -1,0 +1,27 @@
+{
+    "display": {
+        "title": {
+            "text": "To Infinity And Beyond!"
+        },
+        "description": {
+            "text": "Fly up to Y = 300 and get teleported to the Heaven Dimension using Fireworks & Elytra"
+        },
+        "icon": {
+            "item": "minecraft:quartz_block"
+        },
+        "frame": "task",
+        "show_toast": true,
+        "announce_to_chat": true,
+        "hidden": false,
+        "background": "minecraft:textures/block/quartz_bricks.png"
+    },
+    "criteria": {
+        "goheaven": {
+            "trigger": "minecraft:changed_dimension",
+            "conditions": {
+                "from": "overworld",
+                "to": "heaven:sky"
+            }
+        }
+    }
+}
