@@ -24,5 +24,4 @@ The world generation is normal but the overworld/nether are reversed
 Beds dont work, you need the respawn anchor in the nether to change spawnpoint
 
 **Photos**
-
-![[16066082-portal_xl.webp]]
+![alt text](16066082-portal_xl.webp)
