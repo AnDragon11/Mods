@@ -1,0 +1,23 @@
+{
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "terrain_matching",
+        "location": "heaven:village/angels/stop/stop_1",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "terrain_matching",
+        "location": "heaven:village/angels/stop/stop_2",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

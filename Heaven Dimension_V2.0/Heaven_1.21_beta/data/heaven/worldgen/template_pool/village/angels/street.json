@@ -1,0 +1,113 @@
+{
+  "fallback": "heaven:village/angels/stop",
+  "elements": [
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "terrain_matching",
+        "location": "heaven:village/angels/street/cross_01",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "terrain_matching",
+        "location": "heaven:village/angels/street/cross_02",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 6,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "terrain_matching",
+        "location": "heaven:village/angels/street/cross_03",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "terrain_matching",
+        "location": "heaven:village/angels/street/cross_04",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "terrain_matching",
+        "location": "heaven:village/angels/street/split_01",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "terrain_matching",
+        "location": "heaven:village/angels/street/straight_01",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "terrain_matching",
+        "location": "heaven:village/angels/street/straight_02",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 7,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "terrain_matching",
+        "location": "heaven:village/angels/street/straight_03",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "terrain_matching",
+        "location": "heaven:village/angels/street/straight_04",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 5,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "terrain_matching",
+        "location": "heaven:village/angels/street/turn_01",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 6,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "terrain_matching",
+        "location": "heaven:village/angels/street/turn_02",
+        "processors": "minecraft:empty"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "minecraft:legacy_single_pool_element",
+        "projection": "terrain_matching",
+        "location": "heaven:village/angels/street/turn_03",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

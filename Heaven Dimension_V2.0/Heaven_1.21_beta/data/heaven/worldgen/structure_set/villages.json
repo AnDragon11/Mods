@@ -1,0 +1,15 @@
+{
+  "structures": [
+    {
+      "structure": "heaven:village_angels",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 10387312,
+    "frequency": 1,
+    "spacing": 12,
+    "separation": 4
+  }
+}
