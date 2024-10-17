@@ -1,0 +1,1 @@
+execute as @e[type=minecraft:item] at @s store result storage thrower thrower int 1 run data get entity @s Thrower[0]

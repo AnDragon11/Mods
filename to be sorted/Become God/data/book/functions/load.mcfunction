@@ -1,0 +1,3 @@
+#Every think in this file will only be called upon loading the pack/world
+tellraw @a ["",{"text":"God Mode ","bold":true},{"text":"Enabled","bold":true,"color":"green"},{"text":"\n"},{"text":"Click here","italic":true,"underlined":true,"color":"gold","clickEvent":{"action":"run_command","value":"/function book:book"}},{"text":" for "},{"text":"God Book","color":"red"}]
+gamerule sendCommandFeedback false

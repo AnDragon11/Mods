@@ -1,0 +1,105 @@
+{
+  "name": "minecraft:village/taiga/streets",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 3,
+      "element": {
+        "location": "minecraft:village/taiga/streets/cross_l",
+        "processors": "minecraft:street_snowy_or_taiga",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "minecraft:village/taiga/streets/cross_m",
+        "processors": "minecraft:street_snowy_or_taiga",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "minecraft:village/taiga/streets/cross_s",
+        "processors": "minecraft:street_snowy_or_taiga",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 4,
+      "element": {
+        "location": "minecraft:village/taiga/streets/cross_t",
+        "processors": "minecraft:street_snowy_or_taiga",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "minecraft:village/taiga/streets/h",
+        "processors": "minecraft:street_snowy_or_taiga",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "minecraft:village/taiga/streets/square",
+        "processors": "minecraft:street_snowy_or_taiga",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "minecraft:village/taiga/streets/straight_1",
+        "processors": "minecraft:street_snowy_or_taiga",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "minecraft:village/taiga/streets/straight_2",
+        "processors": "minecraft:street_snowy_or_taiga",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "minecraft:village/taiga/streets/turn_1",
+        "processors": "minecraft:street_snowy_or_taiga",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "minecraft:village/taiga/streets/turn_2",
+        "processors": "minecraft:street_snowy_or_taiga",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    },
+    {
+      "weight": 3,
+      "element": {
+        "location": "minecraft:village/taiga/streets/turn_3",
+        "processors": "minecraft:street_snowy_or_taiga",
+        "projection": "terrain_matching",
+        "element_type": "minecraft:legacy_single_pool_element"
+      }
+    }
+  ]
+}

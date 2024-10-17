@@ -1,0 +1,1 @@
+execute unless entity @e[tag=selected] run function detect
